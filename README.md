@@ -1,6 +1,6 @@
 ---
 summary: 'Create the icons sprite sheet for your dog rescue and have it show up in the pattern library.'
-time: '2 hours'
+time: '1 hour'
 deliverables: 'Pattern library'
 ---
 
