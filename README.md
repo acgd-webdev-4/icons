@@ -1,5 +1,5 @@
 ---
-summary: 'Create the icons sprite sheet for your dog rescue and have it show up in the pattern library.'
+summary: 'Create the icons sprite sheet for your eCommerce website and have it show up in the pattern library.'
 time: '1 hour'
 deliverables: 'Pattern library'
 ---
@@ -8,7 +8,7 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
+- *Continue work on your `ecommerce-pattern-library`*
 - Create an Adobe Illustrator document with every icon on a separate artboard.
 - Export the icons as SVGs, following our standard export procedure.
 - Drop all the icons into Spritebot and save them as a single sprite sheet.
