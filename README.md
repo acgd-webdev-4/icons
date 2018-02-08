@@ -20,6 +20,7 @@ deliverables: 'Pattern library'
 ## Details
 
 - *Icons filename:* `images/icons.svg`
+- *Example icons:* social media icons, shopping cart icon, toggle nav hamburger, toggle nav close, icons for cards, etc.
 
 ---
 
