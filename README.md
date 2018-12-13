@@ -13,7 +13,6 @@ deliverables: 'Pattern library'
 - Export the icons as SVGs, following our standard export procedure.
 - Drop all the icons into Spritebot and save them as a single sprite sheet.
 - **Put the sprite sheet in your `images` folder named exactly `icons.svg`—Patternbot will do everything else**.
-- *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
 
