@@ -4,7 +4,7 @@ time: '1 hour'
 deliverables: 'Pattern library'
 ---
 
-# Icons
+# So many icons!
 
 ## Overview
 
